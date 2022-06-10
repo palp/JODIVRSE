@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JODIVRSE": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
